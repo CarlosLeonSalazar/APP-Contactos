@@ -24,6 +24,8 @@ Resultado:
 
 Genera archivo .json como atributo de clase
 
+*Nota : Los datos en el archivo .jason son datos ficticios, a modo de ejemplo
+
 
 Estructura:
 
