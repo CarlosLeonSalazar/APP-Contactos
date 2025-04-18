@@ -40,7 +40,4 @@ contactos_app/
 ├── requirements.txt           # Dependencias (puede estar vacío)
 ├── README.md                  # Descripción del proyecto
 ├── contactos.json             # Archivo donde se almacenan los contactos
-├── .venv/                     # Entorno virtual (no lo subas a GitHub)
-└── tests/
-    ├── __init__.py
-    └── test_contactos.py      # Pruebas con pytest o unittest – No lo incluye
+
